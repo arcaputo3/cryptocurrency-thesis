@@ -1,0 +1,1 @@
+This is a repository for my 2018 senior thesis on cryptocurrency. Contains code and PDF of research paper.
